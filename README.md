@@ -7,3 +7,8 @@ Python OCR is used to scan PDF files into a text. Using *pdf2image* to convert P
 # Master 2nd change
 # Master 2nd change
 
+
+
+Test 123 - afiq_changes
+Test 456 - second changes
+Test 789 - third changes
