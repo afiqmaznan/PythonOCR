@@ -2,9 +2,6 @@ import pytesseract
 from pdf2image import convert_from_path
 import glob
 
-# develop changes 1
-# develop changes 2
-# test
 # test 1 master
 # test 2 master
 def lambda_handler():
